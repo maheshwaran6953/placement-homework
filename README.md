@@ -2,7 +2,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3136-valid-word](https://github.com/maheshwaran6953/placement-homework/tree/master/3136-valid-word) |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/maheshwaran6953/placement-homework/tree/main/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
 <!---LeetCode Topics End-->
