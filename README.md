@@ -18,4 +18,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2864-maximum-odd-binary-number](https://github.com/maheshwaran6953/placement-homework/tree/main/2864-maximum-odd-binary-number/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/maheshwaran6953/placement-homework/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/maheshwaran6953/placement-homework/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/maheshwaran6953/placement-homework/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 <!---LeetCode Topics End-->
