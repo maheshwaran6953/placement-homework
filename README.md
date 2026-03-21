@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/maheshwaran6953/placement-homework/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
+| [3643-flip-square-submatrix-vertically](https://github.com/maheshwaran6953/placement-homework/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -31,4 +32,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/maheshwaran6953/placement-homework/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
+| [3643-flip-square-submatrix-vertically](https://github.com/maheshwaran6953/placement-homework/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3643-flip-square-submatrix-vertically](https://github.com/maheshwaran6953/placement-homework/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 <!---LeetCode Topics End-->
