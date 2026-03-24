@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/maheshwaran6953/placement-homework/tree/main/0496-next-greater-element-i/) | Easy |
 | [0724-find-pivot-index](https://github.com/maheshwaran6953/placement-homework/tree/main/0724-find-pivot-index/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/maheshwaran6953/placement-homework/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
+| [2256-minimum-average-difference](https://github.com/maheshwaran6953/placement-homework/tree/main/2256-minimum-average-difference/) | Medium |
 | [2270-number-of-ways-to-split-array](https://github.com/maheshwaran6953/placement-homework/tree/main/2270-number-of-ways-to-split-array/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/maheshwaran6953/placement-homework/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/maheshwaran6953/placement-homework/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0724-find-pivot-index](https://github.com/maheshwaran6953/placement-homework/tree/main/0724-find-pivot-index/) | Easy |
+| [2256-minimum-average-difference](https://github.com/maheshwaran6953/placement-homework/tree/main/2256-minimum-average-difference/) | Medium |
 | [2270-number-of-ways-to-split-array](https://github.com/maheshwaran6953/placement-homework/tree/main/2270-number-of-ways-to-split-array/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/maheshwaran6953/placement-homework/tree/main/2574-left-and-right-sum-differences/) | Easy |
 <!---LeetCode Topics End-->
