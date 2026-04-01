@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/maheshwaran6953/placement-homework/tree/main/0496-next-greater-element-i/) | Easy |
 | [0724-find-pivot-index](https://github.com/maheshwaran6953/placement-homework/tree/main/0724-find-pivot-index/) | Easy |
+| [1051-height-checker](https://github.com/maheshwaran6953/placement-homework/tree/main/1051-height-checker/) | Easy |
 | [1122-relative-sort-array](https://github.com/maheshwaran6953/placement-homework/tree/main/1122-relative-sort-array/) | Easy |
 | [1436-destination-city](https://github.com/maheshwaran6953/placement-homework/tree/main/1436-destination-city/) | Easy |
 | [1800-maximum-ascending-subarray-sum](https://github.com/maheshwaran6953/placement-homework/tree/main/1800-maximum-ascending-subarray-sum/) | Easy |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1051-height-checker](https://github.com/maheshwaran6953/placement-homework/tree/main/1051-height-checker/) | Easy |
 | [1122-relative-sort-array](https://github.com/maheshwaran6953/placement-homework/tree/main/1122-relative-sort-array/) | Easy |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/maheshwaran6953/placement-homework/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/maheshwaran6953/placement-homework/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
@@ -89,5 +91,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1051-height-checker](https://github.com/maheshwaran6953/placement-homework/tree/main/1051-height-checker/) | Easy |
 | [1122-relative-sort-array](https://github.com/maheshwaran6953/placement-homework/tree/main/1122-relative-sort-array/) | Easy |
 <!---LeetCode Topics End-->
