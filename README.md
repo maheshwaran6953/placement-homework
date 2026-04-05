@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/maheshwaran6953/placement-homework/tree/main/0020-valid-parentheses/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/maheshwaran6953/placement-homework/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1436-destination-city](https://github.com/maheshwaran6953/placement-homework/tree/main/1436-destination-city/) | Easy |
+| [2833-furthest-point-from-origin](https://github.com/maheshwaran6953/placement-homework/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/maheshwaran6953/placement-homework/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2864-maximum-odd-binary-number](https://github.com/maheshwaran6953/placement-homework/tree/main/2864-maximum-odd-binary-number/) | Easy |
 | [3110-score-of-a-string](https://github.com/maheshwaran6953/placement-homework/tree/main/3110-score-of-a-string/) | Easy |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1394-find-lucky-integer-in-an-array](https://github.com/maheshwaran6953/placement-homework/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
+| [2833-furthest-point-from-origin](https://github.com/maheshwaran6953/placement-homework/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/maheshwaran6953/placement-homework/tree/main/3442-maximum-difference-between-even-and-odd-frequency-i/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
