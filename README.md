@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/maheshwaran6953/placement-homework/tree/main/0020-valid-parentheses/) | Easy |
+| [0657-robot-return-to-origin](https://github.com/maheshwaran6953/placement-homework/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1436-destination-city](https://github.com/maheshwaran6953/placement-homework/tree/main/1436-destination-city/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/maheshwaran6953/placement-homework/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2864-maximum-odd-binary-number](https://github.com/maheshwaran6953/placement-homework/tree/main/2864-maximum-odd-binary-number/) | Easy |
@@ -102,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0704-binary-search](https://github.com/maheshwaran6953/placement-homework/tree/main/0704-binary-search/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0657-robot-return-to-origin](https://github.com/maheshwaran6953/placement-homework/tree/main/0657-robot-return-to-origin/) | Easy |
 <!---LeetCode Topics End-->
