@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/maheshwaran6953/placement-homework/tree/main/0020-valid-parentheses/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/maheshwaran6953/placement-homework/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1436-destination-city](https://github.com/maheshwaran6953/placement-homework/tree/main/1436-destination-city/) | Easy |
+| [1903-largest-odd-number-in-string](https://github.com/maheshwaran6953/placement-homework/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/maheshwaran6953/placement-homework/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/maheshwaran6953/placement-homework/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2864-maximum-odd-binary-number](https://github.com/maheshwaran6953/placement-homework/tree/main/2864-maximum-odd-binary-number/) | Easy |
@@ -22,12 +23,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0788-rotated-digits](https://github.com/maheshwaran6953/placement-homework/tree/main/0788-rotated-digits/) | Medium |
+| [1903-largest-odd-number-in-string](https://github.com/maheshwaran6953/placement-homework/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2169-count-operations-to-obtain-zero](https://github.com/maheshwaran6953/placement-homework/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
 | [2864-maximum-odd-binary-number](https://github.com/maheshwaran6953/placement-homework/tree/main/2864-maximum-odd-binary-number/) | Easy |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/maheshwaran6953/placement-homework/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1903-largest-odd-number-in-string](https://github.com/maheshwaran6953/placement-homework/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2864-maximum-odd-binary-number](https://github.com/maheshwaran6953/placement-homework/tree/main/2864-maximum-odd-binary-number/) | Easy |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/maheshwaran6953/placement-homework/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 ## Array
