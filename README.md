@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/maheshwaran6953/placement-homework/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1436-destination-city](https://github.com/maheshwaran6953/placement-homework/tree/main/1436-destination-city/) | Easy |
 | [1800-maximum-ascending-subarray-sum](https://github.com/maheshwaran6953/placement-homework/tree/main/1800-maximum-ascending-subarray-sum/) | Easy |
+| [1848-minimum-distance-to-the-target-element](https://github.com/maheshwaran6953/placement-homework/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/maheshwaran6953/placement-homework/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/maheshwaran6953/placement-homework/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [2256-minimum-average-difference](https://github.com/maheshwaran6953/placement-homework/tree/main/2256-minimum-average-difference/) | Medium |
