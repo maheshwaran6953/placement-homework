@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/maheshwaran6953/placement-homework/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1436-destination-city](https://github.com/maheshwaran6953/placement-homework/tree/main/1436-destination-city/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/maheshwaran6953/placement-homework/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/maheshwaran6953/placement-homework/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/maheshwaran6953/placement-homework/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/maheshwaran6953/placement-homework/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2864-maximum-odd-binary-number](https://github.com/maheshwaran6953/placement-homework/tree/main/2864-maximum-odd-binary-number/) | Easy |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/maheshwaran6953/placement-homework/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [2256-minimum-average-difference](https://github.com/maheshwaran6953/placement-homework/tree/main/2256-minimum-average-difference/) | Medium |
 | [2270-number-of-ways-to-split-array](https://github.com/maheshwaran6953/placement-homework/tree/main/2270-number-of-ways-to-split-array/) | Medium |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/maheshwaran6953/placement-homework/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/maheshwaran6953/placement-homework/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2670-find-the-distinct-difference-array](https://github.com/maheshwaran6953/placement-homework/tree/main/2670-find-the-distinct-difference-array/) | Easy |
 | [3285-find-indices-of-stable-mountains](https://github.com/maheshwaran6953/placement-homework/tree/main/3285-find-indices-of-stable-mountains/) | Easy |
