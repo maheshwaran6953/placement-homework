@@ -32,12 +32,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0045-jump-game-ii](https://github.com/maheshwaran6953/placement-homework/tree/main/0045-jump-game-ii/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/maheshwaran6953/placement-homework/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2864-maximum-odd-binary-number](https://github.com/maheshwaran6953/placement-homework/tree/main/2864-maximum-odd-binary-number/) | Easy |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/maheshwaran6953/placement-homework/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0045-jump-game-ii](https://github.com/maheshwaran6953/placement-homework/tree/main/0045-jump-game-ii/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/maheshwaran6953/placement-homework/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0496-next-greater-element-i](https://github.com/maheshwaran6953/placement-homework/tree/main/0496-next-greater-element-i/) | Easy |
 | [0704-binary-search](https://github.com/maheshwaran6953/placement-homework/tree/main/0704-binary-search/) | Easy |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0045-jump-game-ii](https://github.com/maheshwaran6953/placement-homework/tree/main/0045-jump-game-ii/) | Medium |
 | [0788-rotated-digits](https://github.com/maheshwaran6953/placement-homework/tree/main/0788-rotated-digits/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/maheshwaran6953/placement-homework/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 <!---LeetCode Topics End-->
