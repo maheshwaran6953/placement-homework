@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0509-fibonacci-number](https://github.com/maheshwaran6953/placement-homework/tree/main/0509-fibonacci-number/) | Easy |
 | [0788-rotated-digits](https://github.com/maheshwaran6953/placement-homework/tree/main/0788-rotated-digits/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/maheshwaran6953/placement-homework/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2169-count-operations-to-obtain-zero](https://github.com/maheshwaran6953/placement-homework/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
@@ -135,6 +136,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0045-jump-game-ii](https://github.com/maheshwaran6953/placement-homework/tree/main/0045-jump-game-ii/) | Medium |
+| [0509-fibonacci-number](https://github.com/maheshwaran6953/placement-homework/tree/main/0509-fibonacci-number/) | Easy |
 | [0788-rotated-digits](https://github.com/maheshwaran6953/placement-homework/tree/main/0788-rotated-digits/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/maheshwaran6953/placement-homework/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/maheshwaran6953/placement-homework/tree/main/0509-fibonacci-number/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/maheshwaran6953/placement-homework/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
