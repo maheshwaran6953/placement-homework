@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1436-destination-city](https://github.com/maheshwaran6953/placement-homework/tree/main/1436-destination-city/) | Easy |
 | [1800-maximum-ascending-subarray-sum](https://github.com/maheshwaran6953/placement-homework/tree/main/1800-maximum-ascending-subarray-sum/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/maheshwaran6953/placement-homework/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/maheshwaran6953/placement-homework/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/maheshwaran6953/placement-homework/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/maheshwaran6953/placement-homework/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/maheshwaran6953/placement-homework/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/maheshwaran6953/placement-homework/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/maheshwaran6953/placement-homework/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/maheshwaran6953/placement-homework/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/maheshwaran6953/placement-homework/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0704-binary-search](https://github.com/maheshwaran6953/placement-homework/tree/main/0704-binary-search/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/maheshwaran6953/placement-homework/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/maheshwaran6953/placement-homework/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
