@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/maheshwaran6953/placement-homework/tree/main/0788-rotated-digits/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/maheshwaran6953/placement-homework/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/maheshwaran6953/placement-homework/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/maheshwaran6953/placement-homework/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2169-count-operations-to-obtain-zero](https://github.com/maheshwaran6953/placement-homework/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
 | [2864-maximum-odd-binary-number](https://github.com/maheshwaran6953/placement-homework/tree/main/2864-maximum-odd-binary-number/) | Easy |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/maheshwaran6953/placement-homework/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/maheshwaran6953/placement-homework/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/maheshwaran6953/placement-homework/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/maheshwaran6953/placement-homework/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/maheshwaran6953/placement-homework/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/maheshwaran6953/placement-homework/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2256-minimum-average-difference](https://github.com/maheshwaran6953/placement-homework/tree/main/2256-minimum-average-difference/) | Medium |
 | [2270-number-of-ways-to-split-array](https://github.com/maheshwaran6953/placement-homework/tree/main/2270-number-of-ways-to-split-array/) | Medium |
@@ -82,12 +84,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/maheshwaran6953/placement-homework/tree/main/1051-height-checker/) | Easy |
 | [1122-relative-sort-array](https://github.com/maheshwaran6953/placement-homework/tree/main/1122-relative-sort-array/) | Easy |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/maheshwaran6953/placement-homework/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/maheshwaran6953/placement-homework/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/maheshwaran6953/placement-homework/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/maheshwaran6953/placement-homework/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/maheshwaran6953/placement-homework/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/maheshwaran6953/placement-homework/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/maheshwaran6953/placement-homework/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/maheshwaran6953/placement-homework/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Two Pointers
