@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/maheshwaran6953/placement-homework/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2615-sum-of-distances](https://github.com/maheshwaran6953/placement-homework/tree/main/2615-sum-of-distances/) | Medium |
 | [2670-find-the-distinct-difference-array](https://github.com/maheshwaran6953/placement-homework/tree/main/2670-find-the-distinct-difference-array/) | Easy |
+| [3151-special-array-i](https://github.com/maheshwaran6953/placement-homework/tree/main/3151-special-array-i/) | Easy |
 | [3285-find-indices-of-stable-mountains](https://github.com/maheshwaran6953/placement-homework/tree/main/3285-find-indices-of-stable-mountains/) | Easy |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/maheshwaran6953/placement-homework/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/maheshwaran6953/placement-homework/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
