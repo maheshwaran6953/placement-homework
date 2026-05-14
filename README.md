@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/maheshwaran6953/placement-homework/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2615-sum-of-distances](https://github.com/maheshwaran6953/placement-homework/tree/main/2615-sum-of-distances/) | Medium |
 | [2670-find-the-distinct-difference-array](https://github.com/maheshwaran6953/placement-homework/tree/main/2670-find-the-distinct-difference-array/) | Easy |
+| [2784-check-if-array-is-good](https://github.com/maheshwaran6953/placement-homework/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3151-special-array-i](https://github.com/maheshwaran6953/placement-homework/tree/main/3151-special-array-i/) | Easy |
 | [3285-find-indices-of-stable-mountains](https://github.com/maheshwaran6953/placement-homework/tree/main/3285-find-indices-of-stable-mountains/) | Easy |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/maheshwaran6953/placement-homework/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/maheshwaran6953/placement-homework/tree/main/1122-relative-sort-array/) | Easy |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/maheshwaran6953/placement-homework/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/maheshwaran6953/placement-homework/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
+| [2784-check-if-array-is-good](https://github.com/maheshwaran6953/placement-homework/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/maheshwaran6953/placement-homework/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/maheshwaran6953/placement-homework/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 ## Matrix
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1436-destination-city](https://github.com/maheshwaran6953/placement-homework/tree/main/1436-destination-city/) | Easy |
 | [2615-sum-of-distances](https://github.com/maheshwaran6953/placement-homework/tree/main/2615-sum-of-distances/) | Medium |
 | [2670-find-the-distinct-difference-array](https://github.com/maheshwaran6953/placement-homework/tree/main/2670-find-the-distinct-difference-array/) | Easy |
+| [2784-check-if-array-is-good](https://github.com/maheshwaran6953/placement-homework/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/maheshwaran6953/placement-homework/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/maheshwaran6953/placement-homework/tree/main/3442-maximum-difference-between-even-and-odd-frequency-i/) | Easy |
 ## Counting
