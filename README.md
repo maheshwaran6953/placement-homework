@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/maheshwaran6953/placement-homework/tree/main/0011-container-with-most-water/) | Medium |
+| [0015-3sum](https://github.com/maheshwaran6953/placement-homework/tree/main/0015-3sum/) | Medium |
 | [0045-jump-game-ii](https://github.com/maheshwaran6953/placement-homework/tree/main/0045-jump-game-ii/) | Medium |
 | [0048-rotate-image](https://github.com/maheshwaran6953/placement-homework/tree/main/0048-rotate-image/) | Medium |
 | [0135-candy](https://github.com/maheshwaran6953/placement-homework/tree/main/0135-candy/) | Hard |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/maheshwaran6953/placement-homework/tree/main/0015-3sum/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/maheshwaran6953/placement-homework/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/maheshwaran6953/placement-homework/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0539-minimum-time-difference](https://github.com/maheshwaran6953/placement-homework/tree/main/0539-minimum-time-difference/) | Medium |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/maheshwaran6953/placement-homework/tree/main/0011-container-with-most-water/) | Medium |
+| [0015-3sum](https://github.com/maheshwaran6953/placement-homework/tree/main/0015-3sum/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/maheshwaran6953/placement-homework/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/maheshwaran6953/placement-homework/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/maheshwaran6953/placement-homework/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
