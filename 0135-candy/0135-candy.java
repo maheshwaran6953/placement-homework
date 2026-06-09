@@ -21,9 +21,6 @@ class Solution {
         for(int i = 0; i < n; i++){
             max += Math.max(l[i], r[i]);
         }
-        for(int i : l){
-            System.out.print(i);
-        }
         return max;
     }
 }
