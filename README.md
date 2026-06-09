@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/maheshwaran6953/placement-homework/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/maheshwaran6953/placement-homework/tree/main/0724-find-pivot-index/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/maheshwaran6953/placement-homework/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [0941-valid-mountain-array](https://github.com/maheshwaran6953/placement-homework/tree/main/0941-valid-mountain-array/) | Easy |
 | [1051-height-checker](https://github.com/maheshwaran6953/placement-homework/tree/main/1051-height-checker/) | Easy |
 | [1122-relative-sort-array](https://github.com/maheshwaran6953/placement-homework/tree/main/1122-relative-sort-array/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/maheshwaran6953/placement-homework/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
