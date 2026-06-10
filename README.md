@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/maheshwaran6953/placement-homework/tree/main/0020-valid-parentheses/) | Easy |
+| [0383-ransom-note](https://github.com/maheshwaran6953/placement-homework/tree/main/0383-ransom-note/) | Easy |
 | [0539-minimum-time-difference](https://github.com/maheshwaran6953/placement-homework/tree/main/0539-minimum-time-difference/) | Medium |
 | [0567-permutation-in-string](https://github.com/maheshwaran6953/placement-homework/tree/main/0567-permutation-in-string/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/maheshwaran6953/placement-homework/tree/main/0657-robot-return-to-origin/) | Easy |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/maheshwaran6953/placement-homework/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0383-ransom-note](https://github.com/maheshwaran6953/placement-homework/tree/main/0383-ransom-note/) | Easy |
 | [0496-next-greater-element-i](https://github.com/maheshwaran6953/placement-homework/tree/main/0496-next-greater-element-i/) | Easy |
 | [0567-permutation-in-string](https://github.com/maheshwaran6953/placement-homework/tree/main/0567-permutation-in-string/) | Medium |
 | [1122-relative-sort-array](https://github.com/maheshwaran6953/placement-homework/tree/main/1122-relative-sort-array/) | Easy |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0383-ransom-note](https://github.com/maheshwaran6953/placement-homework/tree/main/0383-ransom-note/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/maheshwaran6953/placement-homework/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/maheshwaran6953/placement-homework/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/maheshwaran6953/placement-homework/tree/main/3442-maximum-difference-between-even-and-odd-frequency-i/) | Easy |
