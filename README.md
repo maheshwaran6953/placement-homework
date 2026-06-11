@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/maheshwaran6953/placement-homework/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/maheshwaran6953/placement-homework/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0941-valid-mountain-array](https://github.com/maheshwaran6953/placement-homework/tree/main/0941-valid-mountain-array/) | Easy |
+| [0992-subarrays-with-k-different-integers](https://github.com/maheshwaran6953/placement-homework/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1051-height-checker](https://github.com/maheshwaran6953/placement-homework/tree/main/1051-height-checker/) | Easy |
 | [1122-relative-sort-array](https://github.com/maheshwaran6953/placement-homework/tree/main/1122-relative-sort-array/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/maheshwaran6953/placement-homework/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/maheshwaran6953/placement-homework/tree/main/0496-next-greater-element-i/) | Easy |
 | [0567-permutation-in-string](https://github.com/maheshwaran6953/placement-homework/tree/main/0567-permutation-in-string/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/maheshwaran6953/placement-homework/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [0992-subarrays-with-k-different-integers](https://github.com/maheshwaran6953/placement-homework/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1122-relative-sort-array](https://github.com/maheshwaran6953/placement-homework/tree/main/1122-relative-sort-array/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/maheshwaran6953/placement-homework/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1436-destination-city](https://github.com/maheshwaran6953/placement-homework/tree/main/1436-destination-city/) | Easy |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0383-ransom-note](https://github.com/maheshwaran6953/placement-homework/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/maheshwaran6953/placement-homework/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0992-subarrays-with-k-different-integers](https://github.com/maheshwaran6953/placement-homework/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1394-find-lucky-integer-in-an-array](https://github.com/maheshwaran6953/placement-homework/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/maheshwaran6953/placement-homework/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/maheshwaran6953/placement-homework/tree/main/2833-furthest-point-from-origin/) | Easy |
@@ -224,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/maheshwaran6953/placement-homework/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0567-permutation-in-string](https://github.com/maheshwaran6953/placement-homework/tree/main/0567-permutation-in-string/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/maheshwaran6953/placement-homework/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [0992-subarrays-with-k-different-integers](https://github.com/maheshwaran6953/placement-homework/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
