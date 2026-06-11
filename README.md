@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/maheshwaran6953/placement-homework/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/maheshwaran6953/placement-homework/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2256-minimum-average-difference](https://github.com/maheshwaran6953/placement-homework/tree/main/2256-minimum-average-difference/) | Medium |
+| [2261-k-divisible-elements-subarrays](https://github.com/maheshwaran6953/placement-homework/tree/main/2261-k-divisible-elements-subarrays/) | Medium |
 | [2270-number-of-ways-to-split-array](https://github.com/maheshwaran6953/placement-homework/tree/main/2270-number-of-ways-to-split-array/) | Medium |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/maheshwaran6953/placement-homework/tree/main/2391-minimum-amount-of-time-to-collect-garbage/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/maheshwaran6953/placement-homework/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/maheshwaran6953/placement-homework/tree/main/1122-relative-sort-array/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/maheshwaran6953/placement-homework/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1436-destination-city](https://github.com/maheshwaran6953/placement-homework/tree/main/1436-destination-city/) | Easy |
+| [2261-k-divisible-elements-subarrays](https://github.com/maheshwaran6953/placement-homework/tree/main/2261-k-divisible-elements-subarrays/) | Medium |
 | [2351-first-letter-to-appear-twice](https://github.com/maheshwaran6953/placement-homework/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2615-sum-of-distances](https://github.com/maheshwaran6953/placement-homework/tree/main/2615-sum-of-distances/) | Medium |
 | [2670-find-the-distinct-difference-array](https://github.com/maheshwaran6953/placement-homework/tree/main/2670-find-the-distinct-difference-array/) | Easy |
@@ -239,4 +241,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2351-first-letter-to-appear-twice](https://github.com/maheshwaran6953/placement-homework/tree/main/2351-first-letter-to-appear-twice/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2261-k-divisible-elements-subarrays](https://github.com/maheshwaran6953/placement-homework/tree/main/2261-k-divisible-elements-subarrays/) | Medium |
+## Rolling Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2261-k-divisible-elements-subarrays](https://github.com/maheshwaran6953/placement-homework/tree/main/2261-k-divisible-elements-subarrays/) | Medium |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2261-k-divisible-elements-subarrays](https://github.com/maheshwaran6953/placement-homework/tree/main/2261-k-divisible-elements-subarrays/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2261-k-divisible-elements-subarrays](https://github.com/maheshwaran6953/placement-homework/tree/main/2261-k-divisible-elements-subarrays/) | Medium |
 <!---LeetCode Topics End-->
