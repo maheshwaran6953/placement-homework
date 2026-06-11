@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2615-sum-of-distances](https://github.com/maheshwaran6953/placement-homework/tree/main/2615-sum-of-distances/) | Medium |
 | [2670-find-the-distinct-difference-array](https://github.com/maheshwaran6953/placement-homework/tree/main/2670-find-the-distinct-difference-array/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/maheshwaran6953/placement-homework/tree/main/2784-check-if-array-is-good/) | Easy |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/maheshwaran6953/placement-homework/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
 | [3151-special-array-i](https://github.com/maheshwaran6953/placement-homework/tree/main/3151-special-array-i/) | Easy |
 | [3285-find-indices-of-stable-mountains](https://github.com/maheshwaran6953/placement-homework/tree/main/3285-find-indices-of-stable-mountains/) | Easy |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/maheshwaran6953/placement-homework/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2615-sum-of-distances](https://github.com/maheshwaran6953/placement-homework/tree/main/2615-sum-of-distances/) | Medium |
 | [2670-find-the-distinct-difference-array](https://github.com/maheshwaran6953/placement-homework/tree/main/2670-find-the-distinct-difference-array/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/maheshwaran6953/placement-homework/tree/main/2784-check-if-array-is-good/) | Easy |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/maheshwaran6953/placement-homework/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/maheshwaran6953/placement-homework/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/maheshwaran6953/placement-homework/tree/main/3442-maximum-difference-between-even-and-odd-frequency-i/) | Easy |
 ## Counting
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/maheshwaran6953/placement-homework/tree/main/0567-permutation-in-string/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/maheshwaran6953/placement-homework/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/maheshwaran6953/placement-homework/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/maheshwaran6953/placement-homework/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
