@@ -15,6 +15,8 @@ class Solution {
             int l = Math.min(left[i], right[i]);
             w += l - height[i];
         }
+        System.out.println(Arrays.toString(left));
+        System.out.print(Arrays.toString(right));
         return w;
     }
 }
