@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/maheshwaran6953/placement-homework/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/maheshwaran6953/placement-homework/tree/main/0724-find-pivot-index/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/maheshwaran6953/placement-homework/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/maheshwaran6953/placement-homework/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/maheshwaran6953/placement-homework/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0941-valid-mountain-array](https://github.com/maheshwaran6953/placement-homework/tree/main/0941-valid-mountain-array/) | Easy |
 | [0992-subarrays-with-k-different-integers](https://github.com/maheshwaran6953/placement-homework/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/maheshwaran6953/placement-homework/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0496-next-greater-element-i](https://github.com/maheshwaran6953/placement-homework/tree/main/0496-next-greater-element-i/) | Easy |
 | [0567-permutation-in-string](https://github.com/maheshwaran6953/placement-homework/tree/main/0567-permutation-in-string/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/maheshwaran6953/placement-homework/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/maheshwaran6953/placement-homework/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/maheshwaran6953/placement-homework/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1122-relative-sort-array](https://github.com/maheshwaran6953/placement-homework/tree/main/1122-relative-sort-array/) | Easy |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/maheshwaran6953/placement-homework/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0567-permutation-in-string](https://github.com/maheshwaran6953/placement-homework/tree/main/0567-permutation-in-string/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/maheshwaran6953/placement-homework/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/maheshwaran6953/placement-homework/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/maheshwaran6953/placement-homework/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/maheshwaran6953/placement-homework/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
