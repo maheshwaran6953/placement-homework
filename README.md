@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3110-score-of-a-string](https://github.com/maheshwaran6953/placement-homework/tree/main/3110-score-of-a-string/) | Easy |
 | [3136-valid-word](https://github.com/maheshwaran6953/placement-homework/tree/master/3136-valid-word) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/maheshwaran6953/placement-homework/tree/main/3442-maximum-difference-between-even-and-odd-frequency-i/) | Easy |
+| [3838-weighted-word-mapping](https://github.com/maheshwaran6953/placement-homework/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3285-find-indices-of-stable-mountains](https://github.com/maheshwaran6953/placement-homework/tree/main/3285-find-indices-of-stable-mountains/) | Easy |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/maheshwaran6953/placement-homework/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/maheshwaran6953/placement-homework/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
+| [3838-weighted-word-mapping](https://github.com/maheshwaran6953/placement-homework/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/maheshwaran6953/placement-homework/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2169-count-operations-to-obtain-zero](https://github.com/maheshwaran6953/placement-homework/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/maheshwaran6953/placement-homework/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+| [3838-weighted-word-mapping](https://github.com/maheshwaran6953/placement-homework/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
