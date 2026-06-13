@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/maheshwaran6953/placement-homework/tree/main/0539-minimum-time-difference/) | Medium |
 | [0704-binary-search](https://github.com/maheshwaran6953/placement-homework/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/maheshwaran6953/placement-homework/tree/main/0724-find-pivot-index/) | Easy |
+| [0739-daily-temperatures](https://github.com/maheshwaran6953/placement-homework/tree/main/0739-daily-temperatures/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/maheshwaran6953/placement-homework/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/maheshwaran6953/placement-homework/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/maheshwaran6953/placement-homework/tree/main/0930-binary-subarrays-with-sum/) | Medium |
@@ -182,11 +183,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/maheshwaran6953/placement-homework/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/maheshwaran6953/placement-homework/tree/main/0042-trapping-rain-water/) | Hard |
 | [0496-next-greater-element-i](https://github.com/maheshwaran6953/placement-homework/tree/main/0496-next-greater-element-i/) | Easy |
+| [0739-daily-temperatures](https://github.com/maheshwaran6953/placement-homework/tree/main/0739-daily-temperatures/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/maheshwaran6953/placement-homework/tree/main/0042-trapping-rain-water/) | Hard |
 | [0496-next-greater-element-i](https://github.com/maheshwaran6953/placement-homework/tree/main/0496-next-greater-element-i/) | Easy |
+| [0739-daily-temperatures](https://github.com/maheshwaran6953/placement-homework/tree/main/0739-daily-temperatures/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
