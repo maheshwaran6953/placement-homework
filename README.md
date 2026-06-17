@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/maheshwaran6953/placement-homework/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0539-minimum-time-difference](https://github.com/maheshwaran6953/placement-homework/tree/main/0539-minimum-time-difference/) | Medium |
 | [0567-permutation-in-string](https://github.com/maheshwaran6953/placement-homework/tree/main/0567-permutation-in-string/) | Medium |
+| [0649-dota2-senate](https://github.com/maheshwaran6953/placement-homework/tree/main/0649-dota2-senate/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/maheshwaran6953/placement-homework/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/maheshwaran6953/placement-homework/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1436-destination-city](https://github.com/maheshwaran6953/placement-homework/tree/main/1436-destination-city/) | Easy |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/maheshwaran6953/placement-homework/tree/main/0011-container-with-most-water/) | Medium |
 | [0045-jump-game-ii](https://github.com/maheshwaran6953/placement-homework/tree/main/0045-jump-game-ii/) | Medium |
 | [0135-candy](https://github.com/maheshwaran6953/placement-homework/tree/main/0135-candy/) | Hard |
+| [0649-dota2-senate](https://github.com/maheshwaran6953/placement-homework/tree/main/0649-dota2-senate/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/maheshwaran6953/placement-homework/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/maheshwaran6953/placement-homework/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2864-maximum-odd-binary-number](https://github.com/maheshwaran6953/placement-homework/tree/main/2864-maximum-odd-binary-number/) | Easy |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/maheshwaran6953/placement-homework/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/maheshwaran6953/placement-homework/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0649-dota2-senate](https://github.com/maheshwaran6953/placement-homework/tree/main/0649-dota2-senate/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
