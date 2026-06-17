@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/maheshwaran6953/placement-homework/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/maheshwaran6953/placement-homework/tree/main/0042-trapping-rain-water/) | Hard |
+| [0232-implement-queue-using-stacks](https://github.com/maheshwaran6953/placement-homework/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0496-next-greater-element-i](https://github.com/maheshwaran6953/placement-homework/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/maheshwaran6953/placement-homework/tree/main/0739-daily-temperatures/) | Medium |
 ## Monotonic Stack
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/maheshwaran6953/placement-homework/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/maheshwaran6953/placement-homework/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -271,4 +273,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2261-k-divisible-elements-subarrays](https://github.com/maheshwaran6953/placement-homework/tree/main/2261-k-divisible-elements-subarrays/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/maheshwaran6953/placement-homework/tree/main/0232-implement-queue-using-stacks/) | Easy |
 <!---LeetCode Topics End-->
