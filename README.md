@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/maheshwaran6953/placement-homework/tree/main/0045-jump-game-ii/) | Medium |
 | [0048-rotate-image](https://github.com/maheshwaran6953/placement-homework/tree/main/0048-rotate-image/) | Medium |
 | [0135-candy](https://github.com/maheshwaran6953/placement-homework/tree/main/0135-candy/) | Hard |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/maheshwaran6953/placement-homework/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0349-intersection-of-two-arrays](https://github.com/maheshwaran6953/placement-homework/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/maheshwaran6953/placement-homework/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0496-next-greater-element-i](https://github.com/maheshwaran6953/placement-homework/tree/main/0496-next-greater-element-i/) | Easy |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/maheshwaran6953/placement-homework/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0349-intersection-of-two-arrays](https://github.com/maheshwaran6953/placement-homework/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0704-binary-search](https://github.com/maheshwaran6953/placement-homework/tree/main/0704-binary-search/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/maheshwaran6953/placement-homework/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
