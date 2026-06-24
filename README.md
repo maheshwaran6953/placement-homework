@@ -299,4 +299,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/maheshwaran6953/placement-homework/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/maheshwaran6953/placement-homework/tree/main/0051-n-queens/) | Hard |
 | [0078-subsets](https://github.com/maheshwaran6953/placement-homework/tree/main/0078-subsets/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/maheshwaran6953/placement-homework/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/maheshwaran6953/placement-homework/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/maheshwaran6953/placement-homework/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/maheshwaran6953/placement-homework/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
