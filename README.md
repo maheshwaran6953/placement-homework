@@ -304,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/maheshwaran6953/placement-homework/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/maheshwaran6953/placement-homework/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/maheshwaran6953/placement-homework/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/maheshwaran6953/placement-homework/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/maheshwaran6953/placement-homework/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
@@ -316,11 +317,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/maheshwaran6953/placement-homework/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/maheshwaran6953/placement-homework/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0111-minimum-depth-of-binary-tree](https://github.com/maheshwaran6953/placement-homework/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/maheshwaran6953/placement-homework/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/maheshwaran6953/placement-homework/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/maheshwaran6953/placement-homework/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/maheshwaran6953/placement-homework/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/maheshwaran6953/placement-homework/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
