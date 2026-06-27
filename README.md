@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/maheshwaran6953/placement-homework/tree/main/0048-rotate-image/) | Medium |
 | [0231-power-of-two](https://github.com/maheshwaran6953/placement-homework/tree/main/0231-power-of-two/) | Easy |
+| [0342-power-of-four](https://github.com/maheshwaran6953/placement-homework/tree/main/0342-power-of-four/) | Easy |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/maheshwaran6953/placement-homework/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0509-fibonacci-number](https://github.com/maheshwaran6953/placement-homework/tree/main/0509-fibonacci-number/) | Easy |
 | [0539-minimum-time-difference](https://github.com/maheshwaran6953/placement-homework/tree/main/0539-minimum-time-difference/) | Medium |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/maheshwaran6953/placement-homework/tree/main/0231-power-of-two/) | Easy |
+| [0342-power-of-four](https://github.com/maheshwaran6953/placement-homework/tree/main/0342-power-of-four/) | Easy |
 | [0509-fibonacci-number](https://github.com/maheshwaran6953/placement-homework/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0078-subsets](https://github.com/maheshwaran6953/placement-homework/tree/main/0078-subsets/) | Medium |
 | [0231-power-of-two](https://github.com/maheshwaran6953/placement-homework/tree/main/0231-power-of-two/) | Easy |
+| [0342-power-of-four](https://github.com/maheshwaran6953/placement-homework/tree/main/0342-power-of-four/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/maheshwaran6953/placement-homework/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
