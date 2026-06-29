@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/maheshwaran6953/placement-homework/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
+| [0620-not-boring-movies](https://github.com/maheshwaran6953/placement-homework/tree/main/0620-not-boring-movies/) | Easy |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/maheshwaran6953/placement-homework/tree/main/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/maheshwaran6953/placement-homework/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 | [1873-calculate-special-bonus](https://github.com/maheshwaran6953/placement-homework/tree/main/1873-calculate-special-bonus/) | Easy |
