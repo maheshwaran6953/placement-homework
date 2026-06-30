@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0176-second-highest-salary](https://github.com/maheshwaran6953/placement-homework/tree/main/0176-second-highest-salary/) | Medium |
 | [0181-employees-earning-more-than-their-managers](https://github.com/maheshwaran6953/placement-homework/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0182-duplicate-emails](https://github.com/maheshwaran6953/placement-homework/tree/main/0182-duplicate-emails/) | Easy |
 | [0511-game-play-analysis-i](https://github.com/maheshwaran6953/placement-homework/tree/main/0511-game-play-analysis-i/) | Easy |
