@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/maheshwaran6953/placement-homework/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0006-zigzag-conversion](https://github.com/maheshwaran6953/placement-homework/tree/main/0006-zigzag-conversion/) | Medium |
 | [0020-valid-parentheses](https://github.com/maheshwaran6953/placement-homework/tree/main/0020-valid-parentheses/) | Easy |
+| [0151-reverse-words-in-a-string](https://github.com/maheshwaran6953/placement-homework/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0242-valid-anagram](https://github.com/maheshwaran6953/placement-homework/tree/main/0242-valid-anagram/) | Easy |
 | [0383-ransom-note](https://github.com/maheshwaran6953/placement-homework/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/maheshwaran6953/placement-homework/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/maheshwaran6953/placement-homework/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/maheshwaran6953/placement-homework/tree/main/0015-3sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/maheshwaran6953/placement-homework/tree/main/0042-trapping-rain-water/) | Hard |
+| [0151-reverse-words-in-a-string](https://github.com/maheshwaran6953/placement-homework/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/maheshwaran6953/placement-homework/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0567-permutation-in-string](https://github.com/maheshwaran6953/placement-homework/tree/main/0567-permutation-in-string/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/maheshwaran6953/placement-homework/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
