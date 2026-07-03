@@ -329,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/maheshwaran6953/placement-homework/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/maheshwaran6953/placement-homework/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/maheshwaran6953/placement-homework/tree/main/0051-n-queens/) | Hard |
+| [0077-combinations](https://github.com/maheshwaran6953/placement-homework/tree/main/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/maheshwaran6953/placement-homework/tree/main/0078-subsets/) | Medium |
 | [0996-number-of-squareful-arrays](https://github.com/maheshwaran6953/placement-homework/tree/main/0996-number-of-squareful-arrays/) | Hard |
 ## Tree
