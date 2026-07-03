@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/maheshwaran6953/placement-homework/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0006-zigzag-conversion](https://github.com/maheshwaran6953/placement-homework/tree/main/0006-zigzag-conversion/) | Medium |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/maheshwaran6953/placement-homework/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/maheshwaran6953/placement-homework/tree/main/0020-valid-parentheses/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/maheshwaran6953/placement-homework/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0242-valid-anagram](https://github.com/maheshwaran6953/placement-homework/tree/main/0242-valid-anagram/) | Easy |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/maheshwaran6953/placement-homework/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/maheshwaran6953/placement-homework/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0242-valid-anagram](https://github.com/maheshwaran6953/placement-homework/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/maheshwaran6953/placement-homework/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0383-ransom-note](https://github.com/maheshwaran6953/placement-homework/tree/main/0383-ransom-note/) | Easy |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/maheshwaran6953/placement-homework/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0040-combination-sum-ii](https://github.com/maheshwaran6953/placement-homework/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/maheshwaran6953/placement-homework/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/maheshwaran6953/placement-homework/tree/main/0051-n-queens/) | Hard |
