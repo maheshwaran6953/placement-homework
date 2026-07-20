@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/maheshwaran6953/placement-homework/tree/main/1051-height-checker/) | Easy |
 | [1122-relative-sort-array](https://github.com/maheshwaran6953/placement-homework/tree/main/1122-relative-sort-array/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/maheshwaran6953/placement-homework/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1260-shift-2d-grid](https://github.com/maheshwaran6953/placement-homework/tree/main/1260-shift-2d-grid/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/maheshwaran6953/placement-homework/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/maheshwaran6953/placement-homework/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1436-destination-city](https://github.com/maheshwaran6953/placement-homework/tree/main/1436-destination-city/) | Easy |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/maheshwaran6953/placement-homework/tree/main/0048-rotate-image/) | Medium |
+| [1260-shift-2d-grid](https://github.com/maheshwaran6953/placement-homework/tree/main/1260-shift-2d-grid/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/maheshwaran6953/placement-homework/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/maheshwaran6953/placement-homework/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/maheshwaran6953/placement-homework/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0657-robot-return-to-origin](https://github.com/maheshwaran6953/placement-homework/tree/main/0657-robot-return-to-origin/) | Easy |
+| [1260-shift-2d-grid](https://github.com/maheshwaran6953/placement-homework/tree/main/1260-shift-2d-grid/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/maheshwaran6953/placement-homework/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/maheshwaran6953/placement-homework/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2169-count-operations-to-obtain-zero](https://github.com/maheshwaran6953/placement-homework/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
