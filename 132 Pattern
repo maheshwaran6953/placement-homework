@@ -1,0 +1,12 @@
+class Solution {
+    public boolean find132pattern(int[] nums) {
+        Stack<Integer> s = new Stack<>();
+        int val = Integer.MIN_VALUE;
+        for(int i = nums.length - 1; i >= 0; i--){
+            if(nums[i] < val) return true;
+            while(!s.isEmpty() && nums[i] > s.peek()) val = s.pop();
+            s.push(nums[i]);
+        }
+        return false;
+    }
+}
