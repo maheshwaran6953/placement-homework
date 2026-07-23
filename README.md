@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/maheshwaran6953/placement-homework/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2169-count-operations-to-obtain-zero](https://github.com/maheshwaran6953/placement-homework/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
 | [2864-maximum-odd-binary-number](https://github.com/maheshwaran6953/placement-homework/tree/main/2864-maximum-odd-binary-number/) | Easy |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/maheshwaran6953/placement-homework/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/maheshwaran6953/placement-homework/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/maheshwaran6953/placement-homework/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Greedy
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2799-count-complete-subarrays-in-an-array](https://github.com/maheshwaran6953/placement-homework/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
 | [3151-special-array-i](https://github.com/maheshwaran6953/placement-homework/tree/main/3151-special-array-i/) | Easy |
 | [3285-find-indices-of-stable-mountains](https://github.com/maheshwaran6953/placement-homework/tree/main/3285-find-indices-of-stable-mountains/) | Easy |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/maheshwaran6953/placement-homework/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/maheshwaran6953/placement-homework/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/maheshwaran6953/placement-homework/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/maheshwaran6953/placement-homework/tree/main/3838-weighted-word-mapping/) | Easy |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/maheshwaran6953/placement-homework/tree/main/0342-power-of-four/) | Easy |
 | [0996-number-of-squareful-arrays](https://github.com/maheshwaran6953/placement-homework/tree/main/0996-number-of-squareful-arrays/) | Hard |
 | [2351-first-letter-to-appear-twice](https://github.com/maheshwaran6953/placement-homework/tree/main/2351-first-letter-to-appear-twice/) | Easy |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/maheshwaran6953/placement-homework/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
