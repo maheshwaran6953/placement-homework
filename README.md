@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/maheshwaran6953/placement-homework/tree/main/0006-zigzag-conversion/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/maheshwaran6953/placement-homework/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/maheshwaran6953/placement-homework/tree/main/0020-valid-parentheses/) | Easy |
+| [0131-palindrome-partitioning](https://github.com/maheshwaran6953/placement-homework/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/maheshwaran6953/placement-homework/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0242-valid-anagram](https://github.com/maheshwaran6953/placement-homework/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/maheshwaran6953/placement-homework/tree/main/0344-reverse-string/) | Easy |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/maheshwaran6953/placement-homework/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/maheshwaran6953/placement-homework/tree/main/0045-jump-game-ii/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/maheshwaran6953/placement-homework/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0343-integer-break](https://github.com/maheshwaran6953/placement-homework/tree/main/0343-integer-break/) | Medium |
 | [0509-fibonacci-number](https://github.com/maheshwaran6953/placement-homework/tree/main/0509-fibonacci-number/) | Easy |
 | [0788-rotated-digits](https://github.com/maheshwaran6953/placement-homework/tree/main/0788-rotated-digits/) | Medium |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/maheshwaran6953/placement-homework/tree/main/0051-n-queens/) | Hard |
 | [0077-combinations](https://github.com/maheshwaran6953/placement-homework/tree/main/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/maheshwaran6953/placement-homework/tree/main/0078-subsets/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/maheshwaran6953/placement-homework/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0996-number-of-squareful-arrays](https://github.com/maheshwaran6953/placement-homework/tree/main/0996-number-of-squareful-arrays/) | Hard |
 ## Tree
 | Problem Name | Difficulty |
