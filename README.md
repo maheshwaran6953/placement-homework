@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/maheshwaran6953/placement-homework/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0135-candy](https://github.com/maheshwaran6953/placement-homework/tree/main/0135-candy/) | Hard |
 | [0136-single-number](https://github.com/maheshwaran6953/placement-homework/tree/main/0136-single-number/) | Easy |
+| [0137-single-number-ii](https://github.com/maheshwaran6953/placement-homework/tree/main/0137-single-number-ii/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/maheshwaran6953/placement-homework/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0349-intersection-of-two-arrays](https://github.com/maheshwaran6953/placement-homework/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/maheshwaran6953/placement-homework/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0078-subsets](https://github.com/maheshwaran6953/placement-homework/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/maheshwaran6953/placement-homework/tree/main/0136-single-number/) | Easy |
+| [0137-single-number-ii](https://github.com/maheshwaran6953/placement-homework/tree/main/0137-single-number-ii/) | Medium |
 | [0191-number-of-1-bits](https://github.com/maheshwaran6953/placement-homework/tree/main/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/maheshwaran6953/placement-homework/tree/main/0231-power-of-two/) | Easy |
 | [0338-counting-bits](https://github.com/maheshwaran6953/placement-homework/tree/main/0338-counting-bits/) | Easy |
