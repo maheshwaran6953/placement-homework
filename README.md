@@ -320,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/maheshwaran6953/placement-homework/tree/main/0231-power-of-two/) | Easy |
 | [0338-counting-bits](https://github.com/maheshwaran6953/placement-homework/tree/main/0338-counting-bits/) | Easy |
 | [0342-power-of-four](https://github.com/maheshwaran6953/placement-homework/tree/main/0342-power-of-four/) | Easy |
+| [0461-hamming-distance](https://github.com/maheshwaran6953/placement-homework/tree/main/0461-hamming-distance/) | Easy |
 | [0996-number-of-squareful-arrays](https://github.com/maheshwaran6953/placement-homework/tree/main/0996-number-of-squareful-arrays/) | Hard |
 | [2351-first-letter-to-appear-twice](https://github.com/maheshwaran6953/placement-homework/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/maheshwaran6953/placement-homework/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
