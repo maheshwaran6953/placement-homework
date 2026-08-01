@@ -315,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/maheshwaran6953/placement-homework/tree/main/0078-subsets/) | Medium |
+| [0191-number-of-1-bits](https://github.com/maheshwaran6953/placement-homework/tree/main/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/maheshwaran6953/placement-homework/tree/main/0231-power-of-two/) | Easy |
 | [0342-power-of-four](https://github.com/maheshwaran6953/placement-homework/tree/main/0342-power-of-four/) | Easy |
 | [0996-number-of-squareful-arrays](https://github.com/maheshwaran6953/placement-homework/tree/main/0996-number-of-squareful-arrays/) | Hard |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/maheshwaran6953/placement-homework/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0191-number-of-1-bits](https://github.com/maheshwaran6953/placement-homework/tree/main/0191-number-of-1-bits/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
