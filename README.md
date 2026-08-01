@@ -279,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/maheshwaran6953/placement-homework/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/maheshwaran6953/placement-homework/tree/main/0045-jump-game-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/maheshwaran6953/placement-homework/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0338-counting-bits](https://github.com/maheshwaran6953/placement-homework/tree/main/0338-counting-bits/) | Easy |
 | [0343-integer-break](https://github.com/maheshwaran6953/placement-homework/tree/main/0343-integer-break/) | Medium |
 | [0509-fibonacci-number](https://github.com/maheshwaran6953/placement-homework/tree/main/0509-fibonacci-number/) | Easy |
 | [0788-rotated-digits](https://github.com/maheshwaran6953/placement-homework/tree/main/0788-rotated-digits/) | Medium |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/maheshwaran6953/placement-homework/tree/main/0078-subsets/) | Medium |
 | [0191-number-of-1-bits](https://github.com/maheshwaran6953/placement-homework/tree/main/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/maheshwaran6953/placement-homework/tree/main/0231-power-of-two/) | Easy |
+| [0338-counting-bits](https://github.com/maheshwaran6953/placement-homework/tree/main/0338-counting-bits/) | Easy |
 | [0342-power-of-four](https://github.com/maheshwaran6953/placement-homework/tree/main/0342-power-of-four/) | Easy |
 | [0996-number-of-squareful-arrays](https://github.com/maheshwaran6953/placement-homework/tree/main/0996-number-of-squareful-arrays/) | Hard |
 | [2351-first-letter-to-appear-twice](https://github.com/maheshwaran6953/placement-homework/tree/main/2351-first-letter-to-appear-twice/) | Easy |
