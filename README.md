@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/maheshwaran6953/placement-homework/tree/main/0056-merge-intervals/) | Medium |
 | [0078-subsets](https://github.com/maheshwaran6953/placement-homework/tree/main/0078-subsets/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/maheshwaran6953/placement-homework/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/maheshwaran6953/placement-homework/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0135-candy](https://github.com/maheshwaran6953/placement-homework/tree/main/0135-candy/) | Hard |
 | [0136-single-number](https://github.com/maheshwaran6953/placement-homework/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/maheshwaran6953/placement-homework/tree/main/0137-single-number-ii/) | Medium |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/maheshwaran6953/placement-homework/tree/main/0022-generate-parentheses/) | Medium |
 | [0042-trapping-rain-water](https://github.com/maheshwaran6953/placement-homework/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/maheshwaran6953/placement-homework/tree/main/0045-jump-game-ii/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/maheshwaran6953/placement-homework/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/maheshwaran6953/placement-homework/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0338-counting-bits](https://github.com/maheshwaran6953/placement-homework/tree/main/0338-counting-bits/) | Easy |
 | [0343-integer-break](https://github.com/maheshwaran6953/placement-homework/tree/main/0343-integer-break/) | Medium |
