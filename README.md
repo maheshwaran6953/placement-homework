@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/maheshwaran6953/placement-homework/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/maheshwaran6953/placement-homework/tree/main/0048-rotate-image/) | Medium |
 | [0051-n-queens](https://github.com/maheshwaran6953/placement-homework/tree/main/0051-n-queens/) | Hard |
+| [0056-merge-intervals](https://github.com/maheshwaran6953/placement-homework/tree/main/0056-merge-intervals/) | Medium |
 | [0078-subsets](https://github.com/maheshwaran6953/placement-homework/tree/main/0078-subsets/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/maheshwaran6953/placement-homework/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0135-candy](https://github.com/maheshwaran6953/placement-homework/tree/main/0135-candy/) | Hard |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/maheshwaran6953/placement-homework/tree/main/0015-3sum/) | Medium |
+| [0056-merge-intervals](https://github.com/maheshwaran6953/placement-homework/tree/main/0056-merge-intervals/) | Medium |
 | [0242-valid-anagram](https://github.com/maheshwaran6953/placement-homework/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/maheshwaran6953/placement-homework/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/maheshwaran6953/placement-homework/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
@@ -426,4 +428,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/maheshwaran6953/placement-homework/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/maheshwaran6953/placement-homework/tree/main/0022-generate-parentheses/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0056-merge-intervals](https://github.com/maheshwaran6953/placement-homework/tree/main/0056-merge-intervals/) | Medium |
 <!---LeetCode Topics End-->
