@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/maheshwaran6953/placement-homework/tree/main/0006-zigzag-conversion/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/maheshwaran6953/placement-homework/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/maheshwaran6953/placement-homework/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/maheshwaran6953/placement-homework/tree/main/0022-generate-parentheses/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/maheshwaran6953/placement-homework/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/maheshwaran6953/placement-homework/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0242-valid-anagram](https://github.com/maheshwaran6953/placement-homework/tree/main/0242-valid-anagram/) | Easy |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/maheshwaran6953/placement-homework/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0022-generate-parentheses](https://github.com/maheshwaran6953/placement-homework/tree/main/0022-generate-parentheses/) | Medium |
 | [0042-trapping-rain-water](https://github.com/maheshwaran6953/placement-homework/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/maheshwaran6953/placement-homework/tree/main/0045-jump-game-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/maheshwaran6953/placement-homework/tree/main/0131-palindrome-partitioning/) | Medium |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/maheshwaran6953/placement-homework/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0022-generate-parentheses](https://github.com/maheshwaran6953/placement-homework/tree/main/0022-generate-parentheses/) | Medium |
 | [0040-combination-sum-ii](https://github.com/maheshwaran6953/placement-homework/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/maheshwaran6953/placement-homework/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/maheshwaran6953/placement-homework/tree/main/0051-n-queens/) | Hard |
@@ -422,4 +425,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/maheshwaran6953/placement-homework/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/maheshwaran6953/placement-homework/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
