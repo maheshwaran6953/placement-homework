@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/maheshwaran6953/placement-homework/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2864-maximum-odd-binary-number](https://github.com/maheshwaran6953/placement-homework/tree/main/2864-maximum-odd-binary-number/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/maheshwaran6953/placement-homework/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/maheshwaran6953/placement-homework/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3110-score-of-a-string](https://github.com/maheshwaran6953/placement-homework/tree/main/3110-score-of-a-string/) | Easy |
 | [3136-valid-word](https://github.com/maheshwaran6953/placement-homework/tree/master/3136-valid-word) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/maheshwaran6953/placement-homework/tree/main/3442-maximum-difference-between-even-and-odd-frequency-i/) | Easy |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/maheshwaran6953/placement-homework/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/maheshwaran6953/placement-homework/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/maheshwaran6953/placement-homework/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/maheshwaran6953/placement-homework/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/maheshwaran6953/placement-homework/tree/main/3442-maximum-difference-between-even-and-odd-frequency-i/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/maheshwaran6953/placement-homework/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1248-count-number-of-nice-subarrays](https://github.com/maheshwaran6953/placement-homework/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/maheshwaran6953/placement-homework/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/maheshwaran6953/placement-homework/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
