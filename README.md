@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3513-number-of-unique-xor-triplets-i](https://github.com/maheshwaran6953/placement-homework/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/maheshwaran6953/placement-homework/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/maheshwaran6953/placement-homework/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/maheshwaran6953/placement-homework/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/maheshwaran6953/placement-homework/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/maheshwaran6953/placement-homework/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/maheshwaran6953/placement-homework/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/maheshwaran6953/placement-homework/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/maheshwaran6953/placement-homework/tree/main/3940-limit-occurrences-in-sorted-array/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
