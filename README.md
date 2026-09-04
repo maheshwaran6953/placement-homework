@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3643-flip-square-submatrix-vertically](https://github.com/maheshwaran6953/placement-homework/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/maheshwaran6953/placement-homework/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/maheshwaran6953/placement-homework/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
+| [3903-smallest-stable-index-i](https://github.com/maheshwaran6953/placement-homework/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/maheshwaran6953/placement-homework/tree/main/3940-limit-occurrences-in-sorted-array/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/maheshwaran6953/placement-homework/tree/main/2391-minimum-amount-of-time-to-collect-garbage/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/maheshwaran6953/placement-homework/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2615-sum-of-distances](https://github.com/maheshwaran6953/placement-homework/tree/main/2615-sum-of-distances/) | Medium |
+| [3903-smallest-stable-index-i](https://github.com/maheshwaran6953/placement-homework/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
